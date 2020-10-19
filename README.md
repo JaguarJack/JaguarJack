@@ -1,16 +1,46 @@
-### Hi there 👋
+### Hi I‘m JaguarJack👋
 
-<!--
-**JaguarJack/JaguarJack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```golang
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+package about
+
+type SoftwareEngineer struct {
+
+	Position string
+
+	Email string
+
+	Skills []string
+
+	Learning string
+
+	Tools []string
+
+	CurrentFocus string
+
+	Company string
+}
+
+func main()  {
+
+	var Me SoftwareEngineer
+
+	Me.Position = "Back-end development engineer"
+
+	Me.Email = "njphper@gmail.com"
+
+	Me.Skills = []string{ "PHP", "Laravel", "Mysql", "Css", "Javascript", "Docker", "GO", "Redis", "Nginx" }
+
+	Me.Learning = "K8s"
+
+	Me.Tools = []string{ "PHPStorm", "Vscode", "Datagrip", "typora", "v2ray", "transmit", "termius", "Goland" }
+
+	Me.CurrentFocus = "https://github.com/yanwenwu/catch-admin"
+
+	Me.Company = "BaiJiaYun NanJing"
+}
+
+```
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/?username=yanwenwu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
