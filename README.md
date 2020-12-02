@@ -38,7 +38,6 @@ func main()  {
 
 	Me.CurrentFocus = "https://github.com/JaguarJack/catch-admin"
 
-	Me.Company = "BaiJiaYun NanJing"
 }
 
 ```
