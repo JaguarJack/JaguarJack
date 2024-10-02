@@ -34,7 +34,7 @@ func main()  {
 
 	Me.Tools = []string{ "PHPStorm", "Vscode", "Datagrip", "typora", "v2ray", "transmit", "termius", "Goland" }
 
-	Me.CurrentFocus = "https://github.com/JaguarJack/catch-admin"
+	Me.CurrentFocus = "For My Work!"
 
 }
 
