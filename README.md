@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaguarjack&show_icons=true&theme=radical)
+
 ### Hi I‘m JaguarJack👋
 ```golang
 
@@ -39,3 +41,4 @@ func main()  {
 }
 
 ```		
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaguarjack&hide_progress=false)
